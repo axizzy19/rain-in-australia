@@ -1,8 +1,12 @@
 # Общая информация
 
-Выбранный датасет: Rain in Australia (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
-
+Выбранный датасет: Rain in Australia (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) \
 Бинарная классификация
+
+## Описание файлов:
+research.ipynb - файл с исследованием \
+weatherAUS.xlsx - датасет \
+homework - файл с формулировкой дз
 
 ## Список гипотез
 1) Датасет содержит столбцы с очень большим количеством пропусков (Evaporation, Sunshine), если их убрать, то это не сильно ухудшит качество модели.
