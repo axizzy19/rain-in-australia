@@ -1,6 +1,7 @@
 # Общая информация
 
 Выбранный датасет: Rain in Australia (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+
 Бинарная классификация
 
 ## Список гипотез
